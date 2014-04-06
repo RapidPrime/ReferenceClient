@@ -1,4 +1,4 @@
 ReferenceClient
 ===============
 
-Reference implementation of the rapid prime client.
+Reference implementation of the Rapid Prime client.
